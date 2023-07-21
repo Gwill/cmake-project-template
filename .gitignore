@@ -1,0 +1,9 @@
+## Local
+.idea/
+cmake-build-*/
+
+build/**/*
+
+include/*
+lib/*
+bin/*
